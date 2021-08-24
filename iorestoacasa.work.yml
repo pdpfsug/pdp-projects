@@ -1,0 +1,44 @@
+versione: 1
+data: 2021-08-26
+
+
+anagrafica:
+    titolo: Io Resto A Casa.Work
+    fondatori: Luca Ferroni, Riccardo Serafini, Dawid Weglarz, Francesco Coppola
+    obiettivo: fornire un servizio di videoconferenze libero, gratuito e distribuito a persone in difficoltà di relazione. A partire dalla pandemia Covid19
+    data-di-inizio: 11 marzo 2020
+    messaggio-di-avvio: ... da pubblicare su un URL ... 
+    cosa-abbiamo-fatto:
+        - abbiamo pacchettizzato con Docker 2 programmi liberi per la videoconferenza, |
+        la prima è Jitsi Meet https://meet.jit.si , la seconda è EduMeet https://edumeet.org/ (inizialmente Multiparty Meeting) sviluppata |
+        nell'ambito del progetto europeo GEANT. Abbiamo scritto un semplice README per ogni piattaforma in cui specificavamo come installarla su un proprio server.
+        - Abbiamo poi inviato un messaggio alla nostra rete di contatti di tecnici o providers invitando a mettere a disposizione server o risorse.
+        - Abbiamo creato le chat Telegram LEADS e SUPPORTO per gestire la community di progettoi. Poi creato il canale NEWS per inviare le news a tutti;
+        - Abbiamo creato il sito iorestoacasa.work che potesse fungere da punto di accesso unico e catalogo per i server esistenti;
+        - Abbiamo messo a disposizione dei tecnici tool di monitoraggio sul sito https://monitoring.iorestoacasa.work per verificare l'utilizzo di ciascun server
+
+
+riferimenti:
+    canale: "IoRestoACasa.work [NEWS]" Telegram https://t.me/iorestoacasaworknews
+    chat: "IoRestoACasa.work [SUPPORTO]" Telegram https://t.me/iorestoacasawork
+    sito-web: https://iorestoacasa.work 
+    e-mail: info@iorestoacasa.work
+    sviluppo: organizzazione GitHub https://github.com/iorestoacasa-work
+
+sottoprogetti:
+    - chat: "IoRestoACasa.work [OFFTOPIC]" Telegram https://t.me/iorestoacasaworkofftopic per argomenti vari della community
+    - chat: "IoRestoACasa.work [STUDENTS]" Telegram https://t.me/iorestoacasaworkstudents per studenti che vogliono imparare
+    - chat: "IoRestoACasa.work [DAD]" Telegram https://t.me/iorestoacasa_work_didattica per didattica a distanza
+    bot: "IoRestoACasa.work Bot" @IoRestoACasa_bot per i saluti e le informazioni di base in chat SUPPORTO
+
+work-in-progress:
+    reply: all'email non c'è un servizio di segreteria
+    blog: avevamo preparato, ma mai lanciato una sezione del sito come blog con belle storie di utilizzo del progetto
+    chat-hackers: la chat SUPPORTO è diventata divulgativa, ne stiamo aprendo una per soli tecnici che gestiscono i server
+    prossime-presentazioni: ESC https://endsummercamp.org, Linux Day https://linuxday.it
+    tech: aggiornamento piattaforme sui server gestiti da noi
+
+relazione-con-il-PDP: |
+    il progetto è stato avviato da noi 4 in modo indipendente. Si è ricollegato sia all'attività professionale beFair, |
+    sia al PDP, sia al MakerSpace per il valore fondamentale del software libero su cui si basa il progetto e |
+    le radici che ci hanno fatti incontrare.
