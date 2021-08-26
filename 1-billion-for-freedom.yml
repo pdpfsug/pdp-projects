@@ -1,0 +1,37 @@
+versione: 1
+data: 2021-08-26
+
+
+anagrafica:
+    titolo: 1 miliardo per la libertà
+    autore: Luca Ferroni
+    obiettivo: creare/gestire un polmone finanziario abbondante e accessibile senza particolari burocrazie da persone, organizzazioni ed enti che hanno dimostrato di dedicare il proprio tempo alla società in modo costruttivo.  Creare luoghi, metodi, strumenti e confini entro i quali si possa esercitare la libertà in modo bello, conveniente e quindi sostenibile per i territori. In questo modo massimizzare l'efficienza e l'efficacia, le energie e il bello di chi opera verso l'Unità in logica win-win e #spicy con particolare attenzione ai ragazzi e alle ragazze che in parecchi casi dimostrano di risolvere problemi in modo incredibilmente più performante rispetto alle generazioni precedenti (leggi: che oggi sono al governo e hanno volontà e bisogno di imparare a lasciare spazio).
+    data-di-inizio: 5 marzo 2021, primo commit su GitHub 31 luglio 2021
+    ente finanziatore: n.a. . Lo saranno tutti quelli che doneranno al PDP o metteranno a disposizione del progetto un loro budget;
+    cosa-è-stato-fatto:
+        Progettazione: definizione degli ambiti di intervento sociale, economico ed educativo. Prima versione del progetto con Centro di Rigenerazione Territoriale (CRT), sostegno approcci pedagogici innovativi, assistenza informatica di primo livello, sviluppo software di monitoraggio personale e territoriale della felicità e di monitoraggio climatico, piano di assistenza alle famiglie;
+        Documentazione: Luca Ferroni ha realizzato una prima versione del documento e sottoposta ad alcuni contatti per ricevere feedback. Commenti notevoli: "il miliardo potrebbe essere il problema minore", "se questo documento lo avesse scritto Elon Musk probabilmente rappresenterebbe il futuro", "il CRT - Centro di Rigenerazione Territoriale è probabilmente la caratteristica principale di una società che si sta preparando"
+        Sito di sviluppo: il documento è stato riportato nello spazio GitHub per consentirne un più facile tracciamento della sua evoluzione. Ora alla versione 0.0.2
+        Testimonial: per ora l'immagine di Stan Lee e il suo "Excelsior!". Il progetto punta al contatto di testimonial oggi famosi che non si sono risparmiati nel profetizzare una società equa e già reale (per non far torto a nessuno si pensi a John Lennon, Gandhi, Buddha, Nelson Mandela o William Wallace)
+        Strumenti di riferimento:
+            - strumenti: Piramide dei bisogni di Maslow e pila ISO/OSI
+            - strumenti: Request For Comments (RFC) 
+            - strumenti: Kanban Board, SCRUM e Agile Manifesto, Story points
+            - strumenti: La matrice di Eisenhower per la definizione delle priorità.
+            - strumenti: Gross National Happiness del Buthan (GNH)
+            - strumenti: Promessa, Legge Scout e metodo scout
+            - strumenti: Pedagogia del Desiderio e Learning Creative Learning
+            - strumenti: Principi e pratiche del Software Libero e della Open Source Definition. Progetto Debian, community Nethesis;
+            - strumenti: Git e Il kernel Linux, containers, pattern MVC, stateless/stateful, architettura del software, dei sistemi operativi e delle reti
+            - strumenti: Shu Ha Ri
+    work-in-progress:
+        - Contatto: diffusione dei contenuti del progetto a 360 gradi in prima persona, nei limiti del tempo personale;
+        - Contatto: con le realtà che potrebbero beneficiare dei fondi. Questo processo si farà tramite issues
+        - Contatto: tentato il contatto con artisti che possano sostenere il percorso. Visita a Zocca alla ricerca di Vasco Rossi ad esempio; in preparazione "diari del grazie": già inviato a Vasco Rossi, da concludere ed inviare a Lorenzo Jovanotti ed Elisa Toffoli; lettera a Papa Francesco per Economy of Francesco; lettera ad Elon Musk che ci insegna: "non sono i soldi il problema, ma le capacità";
+        - Contatto: diffusione territoriale a possibili attuatori di cambiamento in particolare per il CRT;
+
+riferimenti:
+    - sviluppo: https://github.com/feroda/1
+    - facebook: pagina "Io Scrivo Software Libero" https://www.facebook.com/ferodafabriano
+
+relazione-con-il-PDP: il comitato direttivo del PDP Free Software User Group ha dato la disponibilità a Luca Ferroni, autore e BDFL del progetto, di fungere da salvadanaio per le donazioni relative al progetto. Il PDP rimane il primo beneficiario dei fondi per la soddisfazione dei bisogni primari, ossia evitare perdite nei progetti in corso.
