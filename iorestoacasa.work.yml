@@ -7,6 +7,7 @@ anagrafica:
     fondatori: Luca Ferroni, Riccardo Serafini, Dawid Weglarz, Francesco Coppola
     obiettivo: fornire un servizio di videoconferenze libero, gratuito e distribuito a persone in difficoltà di relazione. A partire dalla pandemia Covid19
     data-di-inizio: 11 marzo 2020
+    ente finanziatore: n.a.
     messaggio-di-avvio: ... da pubblicare su un URL ... 
     cosa-abbiamo-fatto:
         - abbiamo pacchettizzato con Docker 2 programmi liberi per la videoconferenza, |
